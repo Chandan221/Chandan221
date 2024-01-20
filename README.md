@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chandan221
-- 👀 I’m interested in Embedded System Designs, VLSI, IoT and Machine learning
+- 👀 I’m interested in Embedded System Designs, IoT and Machine learning
 - 🌱 I’m currently learning Python, Embedded Firmware designing
 - 💞️ I’m looking to collaborate on Data Handling projects
 - 📫 chandanun22@gmail.com
